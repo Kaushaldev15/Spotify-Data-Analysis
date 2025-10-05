@@ -158,8 +158,8 @@ Spotify-Data-Analysis/
 
 **Kaushal Devlekar**
 
-* GitHub: [your profile link]
-* LinkedIn: [your LinkedIn link]
-* Email: [your email]
+* GitHub: [https://github.com/Kaushaldev15]
+* LinkedIn: [www.linkedin.com/in/kaushaldev]
+* Email: [kaushaldev15@outlook.com]
 
 ---
